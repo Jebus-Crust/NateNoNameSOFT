@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NateNoNameSOFT
+- 👋 Hi, I’m Nate from NoNameSOFT
 - 👀 I’m interested in Godot
 - 🌱 I’m currently learning Unity, C#
 - 💞️ I’m looking to collaborate on nothing
