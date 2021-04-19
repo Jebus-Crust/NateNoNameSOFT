@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nate from NoNameSOFT
-- 👀 I’m interested in Godot
+- 👀 I’m interested in C++ and sound design
 - 🌱 I’m currently learning Unity, C#
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you cant hehe
+- 💞️ I’m looking to collaborate on nothing currently
+- 📫 You cant currently reach us but will soon!
 
 <!---
 NateNoNameSOFT/NateNoNameSOFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
