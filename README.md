@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Nate from NoNameSOFT
-- 👀 I’m interested in C++ and sound design
-- 🌱 I’m currently learning Unity, C#
-- 💞️ I’m looking to collaborate on nothing currently
-- 📫 You cant currently reach us but will soon!
+I definately need to make a new logo 🤔
+I like linux because linux 😎
+I want to learn C so I can commit to the linux repo but im not a pro gamer 🙄
 
 <!---
 NateNoNameSOFT/NateNoNameSOFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
