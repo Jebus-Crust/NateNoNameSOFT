@@ -6,6 +6,8 @@
 
 - **I know C and C# but im still not a chad** 😞
 
+- [x] Tux is cool
+
 ![image](https://user-images.githubusercontent.com/78760239/130293776-6a5a21aa-9ba6-4270-b303-dcd56554cb6d.png)
 
 
