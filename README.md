@@ -4,7 +4,7 @@
  
 - **I want to be better at C so I can commit to the linux repo but im not a pro gamer** 🙄
 
-- **I know C and C# but im still not a chad** 😞
+- **I know C but im still not a chad** 😞
 
 - [x] Tux is cool
 - [x] Linus Torvalds is our god (please join the religion)
