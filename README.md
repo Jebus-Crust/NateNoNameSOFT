@@ -6,8 +6,9 @@
 
 - **I know C but im still not a chad** 😞
 
-![image](https://user-images.githubusercontent.com/78760239/130293776-6a5a21aa-9ba6-4270-b303-dcd56554cb6d.png)
-![image](https://user-images.githubusercontent.com/78760239/131938389-c3b3ac4d-3a1f-42f2-a34d-aea406152b87.png)
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateNoNameSOFT&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NateNoNameSOFT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 NateNoNameSOFT/NateNoNameSOFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
